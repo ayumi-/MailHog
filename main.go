@@ -14,7 +14,7 @@ import (
 	"github.com/mailhog/MailHog-Server/smtp"
 	"github.com/ayumi-/MailHog-UI/assets"
 	cfgui "github.com/mailhog/MailHog-UI/config"
-	"github.com/ayumi-/MailHog-UI/web"
+	"github.com/mailhog/MailHog-UI/web"
 	cfgcom "github.com/mailhog/MailHog/config"
 	"github.com/mailhog/http"
 	"github.com/mailhog/mhsendmail/cmd"

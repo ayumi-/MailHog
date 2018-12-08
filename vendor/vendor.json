@@ -123,12 +123,6 @@
 			"revisionTime": "2017-04-16T23:28:50Z"
 		},
 		{
-			"checksumSHA1": "At166WzE7Ma17bS+0FOpT8B28dA=",
-			"path": "github.com/mailhog/MailHog-UI/assets",
-			"revision": "24b31a47cc5b65d23576bb9884c941d2b88381f7",
-			"revisionTime": "2017-04-16T23:28:50Z"
-		},
-		{
 			"checksumSHA1": "Sx9nmFV6wOzDqJIALIEEDLJnnEM=",
 			"path": "github.com/mailhog/MailHog-UI/config",
 			"revision": "24b31a47cc5b65d23576bb9884c941d2b88381f7",
@@ -268,5 +262,5 @@
 			"revisionTime": "2016-06-09T18:00:28Z"
 		}
 	],
-	"rootPath": "github.com/mailhog/MailHog"
+	"rootPath": "github.com/ayumi-/MailHog"
 }
